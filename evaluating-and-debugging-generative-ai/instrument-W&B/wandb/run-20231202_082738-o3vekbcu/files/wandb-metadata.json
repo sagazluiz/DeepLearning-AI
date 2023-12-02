@@ -1,0 +1,44 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-12-02T11:27:38.893844",
+    "startedAt": "2023-12-02T11:27:38.224192",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/01_intro_starter.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/r337555/Projects-Personal/DeepLearning-AI",
+    "git": {
+        "remote": "https://github.com/sagazluiz/DeepLearning-AI.git",
+        "commit": "1afbfe7174a791a45f04f7c1df0771f785c48b6d"
+    },
+    "email": "sagazluiz@hotmail.com",
+    "host": "MACECOC02FQ0ZYM.local",
+    "username": "r337555",
+    "executable": "/Users/r337555/anaconda3/envs/lang-chain/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2300,
+        "min": 2300,
+        "max": 2300
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300,
+            "min": 2300,
+            "max": 2300
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 931.546989440918,
+            "used": 592.1991653442383
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

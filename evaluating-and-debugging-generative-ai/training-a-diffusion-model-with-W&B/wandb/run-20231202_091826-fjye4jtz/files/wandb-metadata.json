@@ -1,0 +1,44 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-12-02T12:18:27.559758",
+    "startedAt": "2023-12-02T12:18:26.563731",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Projects-Personal/DeepLearning-AI/training-a-diffusion-model-with-W&B/Untitled.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/r337555/Projects-Personal/DeepLearning-AI",
+    "git": {
+        "remote": "https://github.com/sagazluiz/DeepLearning-AI.git",
+        "commit": "013dbd86b1ace9ef53c63f04966f34051f3c96a1"
+    },
+    "email": "sagazluiz@hotmail.com",
+    "host": "MACECOC02FQ0ZYM.local",
+    "username": "r337555",
+    "executable": "/Users/r337555/anaconda3/envs/lang-chain/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2300,
+        "min": 2300,
+        "max": 2300
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300,
+            "min": 2300,
+            "max": 2300
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 931.546989440918,
+            "used": 592.1398582458496
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
