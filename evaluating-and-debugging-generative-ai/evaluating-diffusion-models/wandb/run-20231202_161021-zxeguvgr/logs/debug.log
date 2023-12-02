@@ -1,0 +1,91 @@
+2023-12-02 16:10:21,618 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Current SDK version is 0.16.0
+2023-12-02 16:10:21,618 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Configure stats pid to 51163
+2023-12-02 16:10:21,618 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Loading settings from /Users/r337555/.config/wandb/settings
+2023-12-02 16:10:21,618 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Loading settings from /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/evaluating-diffusion-models/wandb/settings
+2023-12-02 16:10:21,618 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-12-02 16:10:21,618 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-12-02 16:10:21,619 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Applying login settings: {'anonymous': 'allow'}
+2023-12-02 16:10:21,619 INFO    MainThread:51163 [wandb_init.py:_log_setup():524] Logging user logs to /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/evaluating-diffusion-models/wandb/run-20231202_161021-zxeguvgr/logs/debug.log
+2023-12-02 16:10:21,619 INFO    MainThread:51163 [wandb_init.py:_log_setup():525] Logging internal logs to /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/evaluating-diffusion-models/wandb/run-20231202_161021-zxeguvgr/logs/debug-internal.log
+2023-12-02 16:10:21,619 INFO    MainThread:51163 [wandb_init.py:_jupyter_setup():470] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fa64cdb58e0>
+2023-12-02 16:10:21,620 INFO    MainThread:51163 [wandb_init.py:init():564] calling init triggers
+2023-12-02 16:10:21,620 INFO    MainThread:51163 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {}
+2023-12-02 16:10:21,620 INFO    MainThread:51163 [wandb_init.py:init():614] starting backend
+2023-12-02 16:10:21,620 INFO    MainThread:51163 [wandb_init.py:init():618] setting up manager
+2023-12-02 16:10:21,629 INFO    MainThread:51163 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2023-12-02 16:10:21,633 INFO    MainThread:51163 [wandb_init.py:init():624] backend started and connected
+2023-12-02 16:10:21,652 INFO    MainThread:51163 [wandb_run.py:_label_probe_notebook():1294] probe notebook
+2023-12-02 16:10:21,653 INFO    MainThread:51163 [wandb_run.py:_label_probe_notebook():1304] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-12-02 16:10:21,653 INFO    MainThread:51163 [wandb_init.py:init():716] updated telemetry
+2023-12-02 16:10:21,738 INFO    MainThread:51163 [wandb_init.py:init():749] communicating run to backend with 90.0 second timeout
+2023-12-02 16:10:22,147 ERROR   MainThread:51163 [wandb_init.py:init():775] encountered error: It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 404: Not Found)
+2023-12-02 16:10:22,549 ERROR   MainThread:51163 [wandb_init.py:init():1184] It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 404: Not Found)
+Traceback (most recent call last):
+  File "/Users/r337555/anaconda3/envs/lang-chain/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 1166, in init
+    run = wi.init()
+  File "/Users/r337555/anaconda3/envs/lang-chain/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 781, in init
+    raise error
+wandb.errors.CommError: It appears that you do not have permission to access the requested resource. Please reach out to the project owner to grant you access. If you have the correct permissions, verify that there are no issues with your networking setup.(Error 404: Not Found)
+2023-12-02 16:19:03,464 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Current SDK version is 0.16.0
+2023-12-02 16:19:03,465 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Configure stats pid to 51163
+2023-12-02 16:19:03,465 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Loading settings from /Users/r337555/.config/wandb/settings
+2023-12-02 16:19:03,465 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Loading settings from /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/evaluating-diffusion-models/wandb/settings
+2023-12-02 16:19:03,465 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-12-02 16:19:03,465 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-12-02 16:19:03,465 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Applying login settings: {'anonymous': 'allow'}
+2023-12-02 16:19:03,465 INFO    MainThread:51163 [wandb_init.py:_log_setup():524] Logging user logs to /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/evaluating-diffusion-models/wandb/run-20231202_161903-w4kdg6a3/logs/debug.log
+2023-12-02 16:19:03,466 INFO    MainThread:51163 [wandb_init.py:_log_setup():525] Logging internal logs to /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/evaluating-diffusion-models/wandb/run-20231202_161903-w4kdg6a3/logs/debug-internal.log
+2023-12-02 16:19:03,466 INFO    MainThread:51163 [wandb_init.py:init():564] calling init triggers
+2023-12-02 16:19:03,466 INFO    MainThread:51163 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {}
+2023-12-02 16:19:03,466 INFO    MainThread:51163 [wandb_init.py:init():614] starting backend
+2023-12-02 16:19:03,466 INFO    MainThread:51163 [wandb_init.py:init():618] setting up manager
+2023-12-02 16:19:03,471 INFO    MainThread:51163 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2023-12-02 16:19:03,472 INFO    MainThread:51163 [wandb_init.py:init():624] backend started and connected
+2023-12-02 16:19:03,488 INFO    MainThread:51163 [wandb_run.py:_label_probe_notebook():1294] probe notebook
+2023-12-02 16:19:03,488 INFO    MainThread:51163 [wandb_run.py:_label_probe_notebook():1304] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-12-02 16:19:03,488 INFO    MainThread:51163 [wandb_init.py:init():716] updated telemetry
+2023-12-02 16:19:03,573 INFO    MainThread:51163 [wandb_init.py:init():749] communicating run to backend with 90.0 second timeout
+2023-12-02 16:20:33,741 ERROR   MainThread:51163 [wandb_init.py:init():775] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2023-12-02 16:20:34,110 ERROR   MainThread:51163 [wandb_init.py:init():1184] Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+Traceback (most recent call last):
+  File "/Users/r337555/anaconda3/envs/lang-chain/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 1166, in init
+    run = wi.init()
+  File "/Users/r337555/anaconda3/envs/lang-chain/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 781, in init
+    raise error
+wandb.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2023-12-02 16:32:45,082 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Current SDK version is 0.16.0
+2023-12-02 16:32:45,082 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Configure stats pid to 51163
+2023-12-02 16:32:45,083 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Loading settings from /Users/r337555/.config/wandb/settings
+2023-12-02 16:32:45,083 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Loading settings from /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/evaluating-diffusion-models/wandb/settings
+2023-12-02 16:32:45,083 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-12-02 16:32:45,083 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-12-02 16:32:45,083 INFO    MainThread:51163 [wandb_setup.py:_flush():76] Applying login settings: {'anonymous': 'allow'}
+2023-12-02 16:32:45,083 INFO    MainThread:51163 [wandb_init.py:_log_setup():524] Logging user logs to /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/evaluating-diffusion-models/wandb/run-20231202_163245-q15xzujk/logs/debug.log
+2023-12-02 16:32:45,083 INFO    MainThread:51163 [wandb_init.py:_log_setup():525] Logging internal logs to /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/evaluating-diffusion-models/wandb/run-20231202_163245-q15xzujk/logs/debug-internal.log
+2023-12-02 16:32:45,084 INFO    MainThread:51163 [wandb_init.py:init():564] calling init triggers
+2023-12-02 16:32:45,084 INFO    MainThread:51163 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {}
+2023-12-02 16:32:45,084 INFO    MainThread:51163 [wandb_init.py:init():614] starting backend
+2023-12-02 16:32:45,084 INFO    MainThread:51163 [wandb_init.py:init():618] setting up manager
+2023-12-02 16:32:45,089 INFO    MainThread:51163 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2023-12-02 16:32:45,090 INFO    MainThread:51163 [wandb_init.py:init():624] backend started and connected
+2023-12-02 16:32:45,106 INFO    MainThread:51163 [wandb_run.py:_label_probe_notebook():1294] probe notebook
+2023-12-02 16:32:45,106 INFO    MainThread:51163 [wandb_run.py:_label_probe_notebook():1304] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-12-02 16:32:45,106 INFO    MainThread:51163 [wandb_init.py:init():716] updated telemetry
+2023-12-02 16:32:45,179 INFO    MainThread:51163 [wandb_init.py:init():749] communicating run to backend with 90.0 second timeout
+2023-12-02 16:34:15,397 ERROR   MainThread:51163 [wandb_init.py:init():775] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2023-12-02 16:34:15,804 ERROR   MainThread:51163 [wandb_init.py:init():1184] Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+Traceback (most recent call last):
+  File "/Users/r337555/anaconda3/envs/lang-chain/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 1166, in init
+    run = wi.init()
+  File "/Users/r337555/anaconda3/envs/lang-chain/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 781, in init
+    raise error
+wandb.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
