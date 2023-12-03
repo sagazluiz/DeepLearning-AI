@@ -1,0 +1,44 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.10.13",
+    "heartbeatAt": "2023-12-03T12:16:11.629404",
+    "startedAt": "2023-12-03T12:16:10.925917",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/llm-evaluating-and-tracing-with-W&B/04_llm_eval_starter-Copy1.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/r337555/Projects-Personal/DeepLearning-AI",
+    "git": {
+        "remote": "https://github.com/sagazluiz/DeepLearning-AI.git",
+        "commit": "508bfd67a84d50740ee44e53f0d8cc2409830bb4"
+    },
+    "email": "sagazluiz@hotmail.com",
+    "host": "MACECOC02FQ0ZYM.local",
+    "username": "r337555",
+    "executable": "/Users/r337555/anaconda3/envs/openai-old/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2300,
+        "min": 2300,
+        "max": 2300
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300,
+            "min": 2300,
+            "max": 2300
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 931.546989440918,
+            "used": 593.6810493469238
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
