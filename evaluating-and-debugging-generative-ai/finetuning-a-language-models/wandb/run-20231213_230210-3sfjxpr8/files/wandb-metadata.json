@@ -1,0 +1,44 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.11.5",
+    "heartbeatAt": "2023-12-14T02:02:11.402667",
+    "startedAt": "2023-12-14T02:02:10.557859",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/05_train_llm_starter.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/r337555/Projects-Personal/DeepLearning-AI",
+    "git": {
+        "remote": "https://github.com/sagazluiz/DeepLearning-AI.git",
+        "commit": "b665942e0ea5ad381aba01852b4d9d6541901e40"
+    },
+    "email": "sagazluiz@hotmail.com",
+    "host": "MACECOC02FQ0ZYM.local",
+    "username": "r337555",
+    "executable": "/Users/r337555/anaconda3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2300,
+        "min": 2300,
+        "max": 2300
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300,
+            "min": 2300,
+            "max": 2300
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 931.546989440918,
+            "used": 613.486270904541
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

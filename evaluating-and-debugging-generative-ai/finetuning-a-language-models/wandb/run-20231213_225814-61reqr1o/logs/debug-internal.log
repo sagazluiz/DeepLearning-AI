@@ -1,0 +1,158 @@
+2023-12-13 22:58:14,912 INFO    StreamThr :52422 [internal.py:wandb_internal():86] W&B internal server running at pid: 52422, started at: 2023-12-13 22:58:14.911610
+2023-12-13 22:58:14,914 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status
+2023-12-13 22:58:14,930 INFO    WriterThread:52422 [datastore.py:open_for_write():85] open: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_225814-61reqr1o/run-61reqr1o.wandb
+2023-12-13 22:58:14,931 DEBUG   SenderThread:52422 [sender.py:send():382] send: header
+2023-12-13 22:58:15,061 DEBUG   SenderThread:52422 [sender.py:send():382] send: run
+2023-12-13 22:58:15,665 INFO    SenderThread:52422 [dir_watcher.py:__init__():211] watching files in: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_225814-61reqr1o/files
+2023-12-13 22:58:15,665 INFO    SenderThread:52422 [sender.py:_start_run_threads():1136] run started: 61reqr1o with start time 1702519094.916096
+2023-12-13 22:58:15,677 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: check_version
+2023-12-13 22:58:15,678 DEBUG   SenderThread:52422 [sender.py:send_request():409] send_request: check_version
+2023-12-13 22:58:15,742 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: run_start
+2023-12-13 22:58:15,763 DEBUG   HandlerThread:52422 [system_info.py:__init__():32] System info init
+2023-12-13 22:58:15,763 DEBUG   HandlerThread:52422 [system_info.py:__init__():47] System info init done
+2023-12-13 22:58:15,763 INFO    HandlerThread:52422 [system_monitor.py:start():194] Starting system monitor
+2023-12-13 22:58:15,763 INFO    SystemMonitor:52422 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2023-12-13 22:58:15,763 INFO    HandlerThread:52422 [system_monitor.py:probe():214] Collecting system info
+2023-12-13 22:58:15,765 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started cpu monitoring
+2023-12-13 22:58:15,765 DEBUG   HandlerThread:52422 [system_info.py:probe():196] Probing system
+2023-12-13 22:58:15,765 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started disk monitoring
+2023-12-13 22:58:15,769 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started memory monitoring
+2023-12-13 22:58:15,770 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started network monitoring
+2023-12-13 22:58:15,778 DEBUG   HandlerThread:52422 [system_info.py:_probe_git():181] Probing git
+2023-12-13 22:58:15,822 DEBUG   HandlerThread:52422 [system_info.py:_probe_git():189] Probing git done
+2023-12-13 22:58:15,822 DEBUG   HandlerThread:52422 [system_info.py:probe():244] Probing system done
+2023-12-13 22:58:15,822 DEBUG   HandlerThread:52422 [system_monitor.py:probe():223] {'os': 'macOS-10.16-x86_64-i386-64bit', 'python': '3.11.5', 'heartbeatAt': '2023-12-14T01:58:15.765926', 'startedAt': '2023-12-14T01:58:14.901415', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': 'Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/05_train_llm_starter.ipynb', 'codePathLocal': None, 'root': '/Users/r337555/Projects-Personal/DeepLearning-AI', 'git': {'remote': 'https://github.com/sagazluiz/DeepLearning-AI.git', 'commit': 'b665942e0ea5ad381aba01852b4d9d6541901e40'}, 'email': 'sagazluiz@hotmail.com', 'host': 'MACECOC02FQ0ZYM.local', 'username': 'r337555', 'executable': '/Users/r337555/anaconda3/bin/python', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 2300, 'min': 2300, 'max': 2300}, 'cpu_freq_per_core': [{'current': 2300, 'min': 2300, 'max': 2300}], 'disk': {'/': {'total': 931.546989440918, 'used': 614.4884262084961}}, 'memory': {'total': 16.0}}
+2023-12-13 22:58:15,822 INFO    HandlerThread:52422 [system_monitor.py:probe():224] Finished collecting system info
+2023-12-13 22:58:15,822 INFO    HandlerThread:52422 [system_monitor.py:probe():227] Publishing system info
+2023-12-13 22:58:15,822 DEBUG   HandlerThread:52422 [system_info.py:_save_pip():52] Saving list of pip packages installed into the current environment
+2023-12-13 22:58:15,824 DEBUG   HandlerThread:52422 [system_info.py:_save_pip():68] Saving pip packages done
+2023-12-13 22:58:15,824 DEBUG   HandlerThread:52422 [system_info.py:_save_conda():75] Saving list of conda packages installed into the current environment
+2023-12-13 22:58:16,670 INFO    Thread-12 :52422 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_225814-61reqr1o/files/requirements.txt
+2023-12-13 22:58:16,670 INFO    Thread-12 :52422 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_225814-61reqr1o/files/conda-environment.yaml
+2023-12-13 22:58:27,000 DEBUG   HandlerThread:52422 [system_info.py:_save_conda():87] Saving conda packages done
+2023-12-13 22:58:27,001 INFO    HandlerThread:52422 [system_monitor.py:probe():229] Finished publishing system info
+2023-12-13 22:58:27,009 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:58:27,009 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: keepalive
+2023-12-13 22:58:27,009 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:58:27,009 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: keepalive
+2023-12-13 22:58:27,009 DEBUG   SenderThread:52422 [sender.py:send():382] send: files
+2023-12-13 22:58:27,010 INFO    SenderThread:52422 [sender.py:_save_file():1392] saving file wandb-metadata.json with policy now
+2023-12-13 22:58:27,027 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 22:58:27,027 DEBUG   SenderThread:52422 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 22:58:27,029 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 22:58:27,029 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: pause
+2023-12-13 22:58:27,030 INFO    HandlerThread:52422 [handler.py:handle_request_pause():705] stopping system metrics thread
+2023-12-13 22:58:27,030 INFO    HandlerThread:52422 [system_monitor.py:finish():203] Stopping system monitor
+2023-12-13 22:58:27,030 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2023-12-13 22:58:27,031 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2023-12-13 22:58:27,031 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined cpu monitor
+2023-12-13 22:58:27,031 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():183] Publishing last batch of metrics
+2023-12-13 22:58:27,031 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined disk monitor
+2023-12-13 22:58:27,032 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined memory monitor
+2023-12-13 22:58:27,032 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined network monitor
+2023-12-13 22:58:27,266 DEBUG   SenderThread:52422 [sender.py:send():382] send: telemetry
+2023-12-13 22:58:27,266 DEBUG   SenderThread:52422 [sender.py:send():382] send: stats
+2023-12-13 22:58:27,698 INFO    Thread-12 :52422 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_225814-61reqr1o/files/conda-environment.yaml
+2023-12-13 22:58:27,699 INFO    Thread-12 :52422 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_225814-61reqr1o/files/wandb-metadata.json
+2023-12-13 22:58:27,723 INFO    wandb-upload_0:52422 [upload_job.py:push():131] Uploaded file /var/folders/zh/td9rtp1x1c1gxb2vj2pc2lgw0000gp/T/tmp5qk128zswandb/hf7wvkzv-wandb-metadata.json
+2023-12-13 22:58:31,282 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:58:36,298 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:58:41,308 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:58:42,028 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 22:58:42,028 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 22:58:42,029 DEBUG   SenderThread:52422 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 22:58:46,418 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:58:46,758 INFO    Thread-12 :52422 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_225814-61reqr1o/files/config.yaml
+2023-12-13 22:58:47,937 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: resume
+2023-12-13 22:58:47,937 INFO    HandlerThread:52422 [handler.py:handle_request_resume():696] starting system metrics thread
+2023-12-13 22:58:47,937 INFO    HandlerThread:52422 [system_monitor.py:start():194] Starting system monitor
+2023-12-13 22:58:47,938 INFO    SystemMonitor:52422 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2023-12-13 22:58:47,938 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started cpu monitoring
+2023-12-13 22:58:47,940 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started disk monitoring
+2023-12-13 22:58:47,940 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started memory monitoring
+2023-12-13 22:58:47,941 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started network monitoring
+2023-12-13 22:58:48,759 INFO    Thread-12 :52422 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_225814-61reqr1o/files/output.log
+2023-12-13 22:58:49,487 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: pause
+2023-12-13 22:58:49,487 INFO    HandlerThread:52422 [handler.py:handle_request_pause():705] stopping system metrics thread
+2023-12-13 22:58:49,487 INFO    HandlerThread:52422 [system_monitor.py:finish():203] Stopping system monitor
+2023-12-13 22:58:49,487 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined cpu monitor
+2023-12-13 22:58:49,487 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2023-12-13 22:58:49,488 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined disk monitor
+2023-12-13 22:58:49,488 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2023-12-13 22:58:49,488 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():183] Publishing last batch of metrics
+2023-12-13 22:58:49,488 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined memory monitor
+2023-12-13 22:58:49,489 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined network monitor
+2023-12-13 22:58:49,489 DEBUG   SenderThread:52422 [sender.py:send():382] send: stats
+2023-12-13 22:58:50,760 INFO    Thread-12 :52422 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_225814-61reqr1o/files/output.log
+2023-12-13 22:58:52,490 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:58:57,028 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 22:58:57,029 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 22:58:57,029 DEBUG   SenderThread:52422 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 22:58:58,243 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:03,251 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:08,256 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:12,032 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 22:59:12,032 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 22:59:12,033 DEBUG   SenderThread:52422 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 22:59:14,219 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:19,227 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:23,260 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: resume
+2023-12-13 22:59:23,260 INFO    HandlerThread:52422 [handler.py:handle_request_resume():696] starting system metrics thread
+2023-12-13 22:59:23,260 INFO    HandlerThread:52422 [system_monitor.py:start():194] Starting system monitor
+2023-12-13 22:59:23,260 INFO    SystemMonitor:52422 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2023-12-13 22:59:23,261 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started cpu monitoring
+2023-12-13 22:59:23,263 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started disk monitoring
+2023-12-13 22:59:23,263 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started memory monitoring
+2023-12-13 22:59:23,264 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started network monitoring
+2023-12-13 22:59:24,250 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:27,032 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 22:59:27,032 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 22:59:27,032 DEBUG   SenderThread:52422 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 22:59:27,827 INFO    Thread-12 :52422 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_225814-61reqr1o/files/output.log
+2023-12-13 22:59:29,298 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:32,673 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: pause
+2023-12-13 22:59:32,673 INFO    HandlerThread:52422 [handler.py:handle_request_pause():705] stopping system metrics thread
+2023-12-13 22:59:32,673 INFO    HandlerThread:52422 [system_monitor.py:finish():203] Stopping system monitor
+2023-12-13 22:59:32,673 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2023-12-13 22:59:32,673 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2023-12-13 22:59:32,674 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined cpu monitor
+2023-12-13 22:59:32,674 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():183] Publishing last batch of metrics
+2023-12-13 22:59:32,674 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined disk monitor
+2023-12-13 22:59:32,675 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined memory monitor
+2023-12-13 22:59:32,675 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined network monitor
+2023-12-13 22:59:32,676 DEBUG   SenderThread:52422 [sender.py:send():382] send: stats
+2023-12-13 22:59:33,845 INFO    Thread-12 :52422 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_225814-61reqr1o/files/output.log
+2023-12-13 22:59:34,676 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:38,472 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: resume
+2023-12-13 22:59:38,473 INFO    HandlerThread:52422 [handler.py:handle_request_resume():696] starting system metrics thread
+2023-12-13 22:59:38,473 INFO    HandlerThread:52422 [system_monitor.py:start():194] Starting system monitor
+2023-12-13 22:59:38,473 INFO    SystemMonitor:52422 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2023-12-13 22:59:38,473 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started cpu monitoring
+2023-12-13 22:59:38,474 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started disk monitoring
+2023-12-13 22:59:38,475 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started memory monitoring
+2023-12-13 22:59:38,476 INFO    SystemMonitor:52422 [interfaces.py:start():190] Started network monitoring
+2023-12-13 22:59:38,625 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: pause
+2023-12-13 22:59:38,625 INFO    HandlerThread:52422 [handler.py:handle_request_pause():705] stopping system metrics thread
+2023-12-13 22:59:38,625 INFO    HandlerThread:52422 [system_monitor.py:finish():203] Stopping system monitor
+2023-12-13 22:59:38,625 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2023-12-13 22:59:38,625 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined cpu monitor
+2023-12-13 22:59:38,625 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2023-12-13 22:59:38,626 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined disk monitor
+2023-12-13 22:59:38,626 DEBUG   SystemMonitor:52422 [system_monitor.py:_start():183] Publishing last batch of metrics
+2023-12-13 22:59:38,626 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined memory monitor
+2023-12-13 22:59:38,627 INFO    HandlerThread:52422 [interfaces.py:finish():202] Joined network monitor
+2023-12-13 22:59:38,627 DEBUG   SenderThread:52422 [sender.py:send():382] send: stats
+2023-12-13 22:59:40,629 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:42,032 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 22:59:42,032 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 22:59:42,032 DEBUG   SenderThread:52422 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 22:59:46,311 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:51,314 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:56,325 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 22:59:57,032 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 22:59:57,032 DEBUG   SenderThread:52422 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 22:59:57,037 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:00:01,361 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:00:06,362 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:00:11,367 DEBUG   HandlerThread:52422 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:00:11,971 INFO    MainThread:52422 [internal.py:handle_exit():76] Internal process exited
