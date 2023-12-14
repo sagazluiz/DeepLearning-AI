@@ -30,6 +30,7 @@ _wandb:
       - 55
       - 71
       3:
+      - 2
       - 7
       - 23
       4: 3.11.5
@@ -52,6 +53,74 @@ _wandb:
       6:
       - 1
     - 1: train/epoch
+      5: 1
+      6:
+      - 1
+    - 1: eval/loss
+      5: 1
+      6:
+      - 1
+    - 1: eval/runtime
+      5: 1
+      6:
+      - 1
+    - 1: eval/samples_per_second
+      5: 1
+      6:
+      - 1
+    - 1: eval/steps_per_second
+      5: 1
+      6:
+      - 1
+    - 1: train/train_runtime
+      5: 1
+      6:
+      - 1
+    - 1: train/train_samples_per_second
+      5: 1
+      6:
+      - 1
+    - 1: train/train_steps_per_second
+      5: 1
+      6:
+      - 1
+    - 1: train/total_flos
+      5: 1
+      6:
+      - 1
+    - 1: train/train_loss
+      5: 1
+      6:
+      - 1
+    - 1: tiny_generations._type
+      5: 1
+      6:
+      - 1
+    - 1: tiny_generations.sha256
+      5: 1
+      6:
+      - 1
+    - 1: tiny_generations.size
+      5: 1
+      6:
+      - 1
+    - 1: tiny_generations.artifact_path
+      5: 1
+      6:
+      - 1
+    - 1: tiny_generations._latest_artifact_path
+      5: 1
+      6:
+      - 1
+    - 1: tiny_generations.path
+      5: 1
+      6:
+      - 1
+    - 1: tiny_generations.ncols
+      5: 1
+      6:
+      - 1
+    - 1: tiny_generations.nrows
       5: 1
       6:
       - 1

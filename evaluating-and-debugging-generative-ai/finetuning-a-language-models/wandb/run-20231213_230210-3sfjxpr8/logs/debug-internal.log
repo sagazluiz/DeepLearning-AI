@@ -1231,3 +1231,1056 @@
 2023-12-13 23:19:11,180 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
 2023-12-13 23:19:11,180 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
 2023-12-13 23:19:11,337 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:19:16,193 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:19:18,194 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:19:18,195 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:19:18,195 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:19:18,196 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:19:18,352 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:19:21,202 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:19:21,951 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:19:21,952 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:19:21,952 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:19:25,670 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:19:25,671 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:19:25,671 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:19:25,672 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:19:26,376 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:19:26,675 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:19:31,681 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:19:32,610 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:19:33,327 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:19:33,328 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:19:33,328 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:19:33,329 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:19:33,407 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:19:36,957 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:19:36,957 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:19:36,957 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:19:36,957 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:19:40,516 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:19:40,517 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:19:40,517 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:19:40,518 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:19:41,422 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:19:42,522 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:19:47,534 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:19:47,967 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:19:47,968 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:19:47,968 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:19:47,968 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:19:48,442 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:19:51,960 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:19:51,960 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:19:51,960 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:19:53,270 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:19:55,095 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:19:55,096 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:19:55,096 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:19:55,097 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:19:55,456 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:19:59,099 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:20:02,243 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:20:02,244 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:20:02,244 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:20:02,245 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:20:02,461 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:20:02,611 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:20:04,616 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:20:06,963 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:20:06,963 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:20:06,964 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:20:09,731 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:20:09,732 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:20:09,732 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:20:09,732 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:20:09,733 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:20:10,481 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:20:14,741 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:20:16,788 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:20:16,789 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:20:16,789 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:20:16,790 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:20:17,490 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:20:19,791 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:20:21,966 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:20:21,966 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:20:21,966 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:20:24,006 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:20:24,006 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:20:24,007 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:20:24,007 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:20:24,506 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:20:25,008 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:20:30,014 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:20:31,513 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:20:31,514 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:20:31,514 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:20:31,515 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:20:31,521 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:20:32,611 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:20:35,614 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:20:36,966 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:20:36,966 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:20:36,967 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:20:38,584 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:20:38,585 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:20:38,585 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:20:38,585 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:20:39,536 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:20:41,598 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:20:46,051 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:20:46,052 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:20:46,052 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:20:46,053 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:20:46,565 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:20:47,053 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:20:51,968 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:20:51,968 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:20:51,969 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:20:52,180 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:20:52,915 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:20:52,917 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:20:52,917 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:20:52,917 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:20:53,575 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:20:57,937 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:21:00,277 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:21:00,278 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:21:00,278 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:21:00,279 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:21:00,580 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:21:02,612 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:21:03,614 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:21:06,969 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:21:06,969 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:21:06,969 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:21:07,119 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:21:07,156 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:21:07,156 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:21:07,158 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:21:07,595 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:21:09,161 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:21:14,013 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:21:14,014 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:21:14,014 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:21:14,015 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:21:14,605 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:21:15,016 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:21:20,027 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:21:20,866 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:21:20,867 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:21:20,867 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:21:20,869 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:21:21,609 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:21:21,969 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:21:21,969 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:21:21,969 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:21:25,209 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:21:28,230 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:21:28,231 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:21:28,231 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:21:28,232 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:21:28,615 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:21:30,238 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:21:32,614 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:21:35,114 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:21:35,114 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:21:35,115 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:21:35,115 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:21:35,627 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:21:36,116 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:21:36,969 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:21:36,969 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:21:36,969 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:21:41,344 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:21:42,005 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:21:42,005 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:21:42,005 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:21:42,006 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:21:42,645 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:21:47,013 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:21:48,856 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:21:48,857 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:21:48,857 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:21:48,858 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:21:49,659 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:21:51,985 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:21:51,986 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:21:51,988 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:21:52,267 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:21:56,169 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:21:56,170 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:21:56,170 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:21:56,172 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:21:56,663 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:21:58,175 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:02,615 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:22:03,080 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:22:03,080 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:22:03,080 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:22:03,081 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:22:03,676 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:22:04,083 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:06,984 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:22:06,985 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:22:06,985 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:22:09,195 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:10,458 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:22:10,459 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:22:10,459 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:22:10,461 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:22:10,694 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:22:14,468 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:17,386 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:22:17,387 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:22:17,387 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:22:17,388 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:22:17,710 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:22:20,393 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:21,987 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:22:21,987 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:22:21,988 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:22:24,254 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:22:24,255 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:22:24,255 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:22:24,255 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:22:24,728 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:22:26,256 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:31,263 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:31,321 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:22:31,322 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:22:31,322 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:22:31,323 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:22:31,739 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:22:32,616 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:22:36,618 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:36,987 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:22:36,987 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:22:36,988 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:22:38,317 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:22:38,318 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:22:38,318 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:22:38,319 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:22:38,765 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:22:42,326 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:45,990 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:22:45,991 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:22:45,991 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:22:45,992 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:22:46,781 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:22:47,993 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:51,988 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:22:51,988 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:22:51,989 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:22:53,021 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:22:53,022 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:22:53,022 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:22:53,022 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:53,023 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:22:53,795 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:22:58,032 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:22:59,956 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:22:59,957 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:22:59,957 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:22:59,958 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:23:00,805 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:23:02,617 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:23:03,617 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:23:06,834 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:23:06,835 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:23:06,835 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:23:06,836 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:23:06,988 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:23:06,989 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:23:06,990 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:23:07,814 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:23:09,343 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:23:13,754 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:23:13,755 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:23:13,755 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:23:13,755 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:23:13,822 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:23:14,756 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:23:19,766 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:23:20,663 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:23:20,663 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:23:20,664 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:23:20,665 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:23:20,843 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:23:21,988 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:23:21,989 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:23:21,989 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:23:25,212 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:23:28,055 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:23:28,055 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:23:28,055 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:23:28,056 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:23:28,872 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:23:31,068 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:23:32,622 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:23:34,997 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:23:34,998 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:23:34,998 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:23:34,999 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:23:35,884 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:23:36,989 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:23:36,990 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:23:36,990 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:23:37,182 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:23:42,224 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:23:42,439 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:23:42,440 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:23:42,440 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:23:42,441 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:23:42,902 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:23:47,455 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:23:49,432 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:23:49,433 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:23:49,433 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:23:49,434 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:23:49,919 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:23:51,989 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:23:51,989 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:23:51,993 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:23:53,197 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:23:56,851 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:23:56,852 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:23:56,852 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:23:56,852 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:23:56,937 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:23:58,853 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:24:02,622 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:24:03,761 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:24:03,761 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:24:03,761 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:24:03,762 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:24:03,951 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:24:04,763 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:24:06,989 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:24:06,989 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:24:06,994 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:24:10,262 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:24:11,113 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:24:11,113 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:24:11,114 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:24:11,115 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:24:11,961 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:24:16,116 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:24:18,100 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:24:18,100 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:24:18,100 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:24:18,101 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:24:18,968 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:24:21,989 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:24:21,990 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:24:21,997 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:24:22,276 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:24:25,497 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:24:25,498 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:24:25,498 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:24:25,499 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:24:25,981 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:24:27,505 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:24:32,463 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:24:32,463 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:24:32,463 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:24:32,464 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:24:32,624 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:24:32,625 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:24:32,994 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:24:36,994 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:24:36,995 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:24:36,996 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:24:38,224 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:24:39,800 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:24:39,801 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:24:39,801 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:24:39,802 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:24:40,007 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:24:43,803 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:24:46,690 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:24:46,690 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:24:46,691 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:24:46,692 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:24:47,018 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:24:49,702 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:24:52,000 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:24:52,000 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:24:52,001 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:24:54,081 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:24:54,082 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:24:54,082 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:24:54,083 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:24:55,034 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:24:55,085 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:00,098 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:01,448 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:25:01,448 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:25:01,449 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:25:01,450 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:25:02,044 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:25:02,627 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:25:05,636 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:07,000 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:25:07,001 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:25:07,001 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:25:08,323 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:25:08,324 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:25:08,324 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:25:08,324 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:25:09,066 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:25:11,333 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:15,734 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:25:15,735 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:25:15,735 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:25:15,737 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:25:16,085 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:25:16,741 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:21,749 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:22,000 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:25:22,001 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:25:22,001 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:25:22,658 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:25:22,659 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:25:22,659 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:25:22,659 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:25:23,104 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:25:27,673 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:30,001 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:25:30,001 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:25:30,002 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:25:30,003 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:25:30,117 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:25:32,629 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:25:33,631 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:36,877 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:25:36,877 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:25:36,877 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:25:36,878 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:25:37,000 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:25:37,001 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:25:37,001 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:25:37,133 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:25:39,210 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:43,787 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:25:43,787 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:25:43,787 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:25:43,788 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:25:44,139 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:25:44,788 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:49,792 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:50,745 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:25:50,746 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:25:50,746 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:25:50,747 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:25:51,149 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:25:52,001 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:25:52,001 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:25:52,001 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:25:55,317 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:25:57,640 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:25:57,640 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:25:57,640 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:25:57,641 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:25:58,161 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:26:00,648 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:26:02,632 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:26:04,596 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:26:04,597 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:26:04,597 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:26:04,598 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:26:05,170 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:26:06,598 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:26:07,001 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:26:07,001 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:26:07,002 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:26:11,998 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:26:11,998 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:26:11,999 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:26:11,999 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:26:11,999 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:26:12,188 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:26:17,005 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:26:18,891 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:26:18,892 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:26:18,893 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:26:18,914 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:26:19,196 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:26:22,001 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:26:22,002 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:26:22,002 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:26:22,284 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:26:25,825 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:26:25,826 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:26:25,826 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:26:25,827 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:26:26,202 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:26:27,832 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:26:32,636 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:26:33,240 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:26:33,241 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:26:33,241 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:26:33,241 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:26:33,242 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:26:34,212 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:26:37,001 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:26:37,002 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:26:37,002 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:26:38,266 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:26:40,175 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:26:40,176 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:26:40,176 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:26:40,177 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:26:40,229 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:26:44,188 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:26:47,104 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:26:47,104 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:26:47,104 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:26:47,105 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:26:47,240 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:26:50,111 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:26:52,002 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:26:52,002 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:26:52,003 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:26:53,981 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:26:53,982 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:26:53,982 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:26:53,983 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:26:54,255 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:26:55,984 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:00,892 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:27:00,892 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:27:00,893 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:27:00,894 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:27:01,270 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:27:01,894 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:02,637 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:27:07,007 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:27:07,007 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:27:07,008 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:27:07,369 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:07,765 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:27:07,765 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:27:07,766 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:27:07,767 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:27:08,278 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:27:12,783 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:15,200 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:27:15,200 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:27:15,200 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:27:15,201 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:27:15,297 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:27:18,205 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:22,007 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:27:22,008 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:27:22,009 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:27:22,634 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:27:22,635 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:27:22,635 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:27:22,636 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:27:23,319 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:27:23,636 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:28,637 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:29,595 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:27:29,596 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:27:29,596 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:27:29,598 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:27:30,340 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:27:32,639 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:27:33,644 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:36,532 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:27:36,533 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:27:36,533 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:27:36,534 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:27:37,007 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:27:37,007 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:27:37,008 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:27:37,358 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:27:39,371 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:43,483 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:27:43,484 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:27:43,484 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:27:43,484 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:27:44,367 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:27:44,485 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:49,488 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:50,395 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:27:50,396 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:27:50,396 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:27:50,397 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:27:51,371 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:27:52,007 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:27:52,007 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:27:52,008 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:27:55,337 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:27:57,780 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:27:57,781 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:27:57,781 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:27:57,782 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:27:58,387 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:28:00,783 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:28:02,640 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:28:04,682 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:28:04,683 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:28:04,683 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:28:04,684 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:28:05,395 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:28:06,686 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:28:07,010 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:28:07,010 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:28:07,011 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:28:11,542 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:28:11,543 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:28:11,543 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:28:11,544 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:28:12,404 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:28:12,547 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:28:17,555 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:28:18,429 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:28:18,430 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:28:18,430 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:28:18,430 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:28:19,407 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:28:22,010 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:28:22,010 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:28:22,010 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:28:23,224 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:28:25,757 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:28:25,758 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:28:25,758 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:28:25,759 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:28:26,414 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:28:28,766 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:28:32,641 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:28:32,736 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:28:32,736 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:28:32,737 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:28:32,738 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:28:33,429 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:28:34,745 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:28:37,011 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:28:37,012 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:28:37,012 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:28:39,630 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:28:39,631 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:28:39,631 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:28:39,632 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:28:40,445 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:28:40,635 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:28:45,637 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:28:46,565 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:28:46,566 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:28:46,566 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:28:46,567 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:28:47,452 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:28:51,570 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:28:52,012 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:28:52,012 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:28:52,012 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:28:53,485 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:28:53,485 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:28:53,485 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:28:53,487 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:28:54,466 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:28:57,491 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:00,375 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:29:00,375 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:29:00,375 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:29:00,376 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:29:00,474 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:29:02,646 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:29:02,649 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:07,013 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:29:07,013 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:29:07,013 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:29:07,802 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:29:07,803 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:29:07,803 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:29:07,804 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:07,804 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:29:08,486 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:29:12,817 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:14,710 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:29:14,711 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:29:14,711 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:29:14,712 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:29:15,490 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:29:18,713 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:22,013 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:29:22,013 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:29:22,014 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:29:22,098 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:29:22,333 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:29:22,333 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:29:22,335 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:29:22,511 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:29:24,342 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:29,348 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:29,492 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:29:29,493 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:29:29,493 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:29:29,493 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:29:29,515 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:29:32,645 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:29:34,651 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:36,434 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:29:36,434 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:29:36,435 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:29:36,436 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:29:36,533 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:29:37,014 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:29:37,014 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:29:37,014 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:29:40,291 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:43,326 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:29:43,326 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:29:43,327 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:29:43,328 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:29:43,538 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:29:45,333 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:50,236 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:29:50,236 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:29:50,237 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:29:50,238 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:29:50,556 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:29:51,242 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:52,014 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:29:52,015 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:29:52,015 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:29:56,346 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:29:57,135 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:29:57,136 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:29:57,136 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:29:57,137 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:29:57,570 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:30:02,145 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:30:02,646 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:30:04,096 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:30:04,096 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:30:04,096 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:30:04,097 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:30:04,582 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:30:05,572 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:30:05,572 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:30:05,572 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:30:05,573 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:30:05,582 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:30:07,015 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:30:07,015 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:30:07,015 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:30:07,390 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:30:12,398 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:30:17,407 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:30:22,017 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:30:22,017 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:30:22,018 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:30:23,260 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:30:28,275 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:30:32,647 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:30:33,647 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:30:37,019 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:30:37,019 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:30:37,019 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:30:39,304 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:30:44,315 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:30:49,320 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:30:52,018 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:30:52,018 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:30:52,023 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:30:55,245 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:00,256 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:02,647 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:31:05,653 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:07,020 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:31:07,020 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:31:07,023 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:31:11,294 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:16,302 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:21,317 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:22,020 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:31:22,020 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:31:22,024 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:31:27,262 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:32,269 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:32,652 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:31:37,020 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:31:37,021 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:31:37,024 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:31:37,272 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:42,274 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:47,286 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:52,022 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:31:52,022 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:31:52,024 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:31:53,250 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:31:58,267 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:32:02,654 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:32:03,655 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:32:07,022 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:32:07,023 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:32:07,025 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:32:09,405 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:32:14,418 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:32:16,150 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:32:16,152 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:16,152 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:16,152 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:16,152 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:16,152 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:32:16,152 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:32:16,154 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:32:16,156 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:32:16,156 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:16,156 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:16,156 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:16,156 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:16,156 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:16,156 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:32:16,157 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:32:16,157 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:32:16,175 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: pause
+2023-12-13 23:32:16,176 INFO    HandlerThread:54111 [handler.py:handle_request_pause():705] stopping system metrics thread
+2023-12-13 23:32:16,176 INFO    HandlerThread:54111 [system_monitor.py:finish():203] Stopping system monitor
+2023-12-13 23:32:16,176 DEBUG   SystemMonitor:54111 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2023-12-13 23:32:16,176 DEBUG   SystemMonitor:54111 [system_monitor.py:_start():183] Publishing last batch of metrics
+2023-12-13 23:32:16,177 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined cpu monitor
+2023-12-13 23:32:16,177 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined disk monitor
+2023-12-13 23:32:16,177 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined memory monitor
+2023-12-13 23:32:16,177 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined network monitor
+2023-12-13 23:32:16,178 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:32:16,877 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:32:20,183 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:32:22,024 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:32:22,024 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:32:22,025 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:32:25,204 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:32:26,600 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: resume
+2023-12-13 23:32:26,600 INFO    HandlerThread:54111 [handler.py:handle_request_resume():696] starting system metrics thread
+2023-12-13 23:32:26,600 INFO    HandlerThread:54111 [system_monitor.py:start():194] Starting system monitor
+2023-12-13 23:32:26,601 INFO    SystemMonitor:54111 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2023-12-13 23:32:26,601 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started cpu monitoring
+2023-12-13 23:32:26,603 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started disk monitoring
+2023-12-13 23:32:26,603 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started memory monitoring
+2023-12-13 23:32:26,604 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started network monitoring
+2023-12-13 23:32:30,207 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:32:30,905 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: log_artifact
+2023-12-13 23:32:30,905 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: log_artifact
+2023-12-13 23:32:31,330 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-13 23:32:31,333 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: pause
+2023-12-13 23:32:31,333 INFO    HandlerThread:54111 [handler.py:handle_request_pause():705] stopping system metrics thread
+2023-12-13 23:32:31,333 INFO    HandlerThread:54111 [system_monitor.py:finish():203] Stopping system monitor
+2023-12-13 23:32:31,334 DEBUG   SystemMonitor:54111 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2023-12-13 23:32:31,334 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined cpu monitor
+2023-12-13 23:32:31,334 DEBUG   SystemMonitor:54111 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2023-12-13 23:32:31,335 DEBUG   SystemMonitor:54111 [system_monitor.py:_start():183] Publishing last batch of metrics
+2023-12-13 23:32:31,335 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined disk monitor
+2023-12-13 23:32:31,336 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined memory monitor
+2023-12-13 23:32:31,336 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined network monitor
+2023-12-13 23:32:31,894 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/media/table/tiny_generations_235_6636239e473b27964d5f.table.json
+2023-12-13 23:32:31,895 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/media
+2023-12-13 23:32:31,895 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/media/table
+2023-12-13 23:32:32,446 INFO    wandb-upload_1:54111 [upload_job.py:push():131] Uploaded file /var/folders/zh/td9rtp1x1c1gxb2vj2pc2lgw0000gp/T/tmpinuqxhwdwandb/3nfllg7y-media/table/tiny_generations_235_6636239e473b27964d5f.table.json
+2023-12-13 23:32:32,457 INFO    wandb-upload_0:54111 [upload_job.py:push():89] Uploaded file /Users/r337555/Library/Application Support/wandb/artifacts/staging/tmp9x60phal
+2023-12-13 23:32:33,273 INFO    SenderThread:54111 [sender.py:send_request_log_artifact():1458] logged artifact run-3sfjxpr8-tiny_generations - {'id': 'QXJ0aWZhY3Q6NjY2NTcxMTE4', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjEyMzQ0NTE1NA==', 'latestArtifact': None}}
+2023-12-13 23:32:33,273 DEBUG   SenderThread:54111 [sender.py:send():382] send: files
+2023-12-13 23:32:33,273 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file media/table/tiny_generations_235_6636239e473b27964d5f.table.json with policy now
+2023-12-13 23:32:33,274 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:33,274 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:33,274 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:33,274 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:33,274 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:33,274 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:33,274 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:33,275 DEBUG   SenderThread:54111 [sender.py:send():382] send: metric
+2023-12-13 23:32:33,275 DEBUG   SenderThread:54111 [sender.py:send():382] send: history
+2023-12-13 23:32:33,275 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: summary_record
+2023-12-13 23:32:33,276 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:32:33,277 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:32:33,776 INFO    wandb-upload_1:54111 [upload_job.py:push():131] Uploaded file /var/folders/zh/td9rtp1x1c1gxb2vj2pc2lgw0000gp/T/tmpinuqxhwdwandb/xuotkn3z-media/table/tiny_generations_235_6636239e473b27964d5f.table.json
+2023-12-13 23:32:33,897 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:32:35,281 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:32:37,024 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:32:37,024 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:32:37,025 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:32:41,243 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:32:41,911 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/config.yaml
+2023-12-13 23:32:46,503 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:32:47,980 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: resume
+2023-12-13 23:32:47,980 INFO    HandlerThread:54111 [handler.py:handle_request_resume():696] starting system metrics thread
+2023-12-13 23:32:47,980 INFO    HandlerThread:54111 [system_monitor.py:start():194] Starting system monitor
+2023-12-13 23:32:47,980 INFO    SystemMonitor:54111 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2023-12-13 23:32:47,981 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started cpu monitoring
+2023-12-13 23:32:47,981 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started disk monitoring
+2023-12-13 23:32:47,983 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started memory monitoring
+2023-12-13 23:32:47,983 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: pause
+2023-12-13 23:32:47,984 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started network monitoring
+2023-12-13 23:32:47,984 INFO    HandlerThread:54111 [handler.py:handle_request_pause():705] stopping system metrics thread
+2023-12-13 23:32:47,984 INFO    HandlerThread:54111 [system_monitor.py:finish():203] Stopping system monitor
+2023-12-13 23:32:47,985 DEBUG   SystemMonitor:54111 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2023-12-13 23:32:47,985 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined cpu monitor
+2023-12-13 23:32:47,985 DEBUG   SystemMonitor:54111 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2023-12-13 23:32:47,985 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined disk monitor
+2023-12-13 23:32:47,985 DEBUG   SystemMonitor:54111 [system_monitor.py:_start():183] Publishing last batch of metrics
+2023-12-13 23:32:47,985 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined memory monitor
+2023-12-13 23:32:47,986 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined network monitor
+2023-12-13 23:32:47,986 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:32:51,989 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:32:52,024 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-13 23:32:52,024 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: stop_status
+2023-12-13 23:32:52,029 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:32:57,272 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:33:02,288 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:33:02,530 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: resume
+2023-12-13 23:33:02,530 INFO    HandlerThread:54111 [handler.py:handle_request_resume():696] starting system metrics thread
+2023-12-13 23:33:02,531 INFO    HandlerThread:54111 [system_monitor.py:start():194] Starting system monitor
+2023-12-13 23:33:02,531 INFO    SystemMonitor:54111 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2023-12-13 23:33:02,531 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started cpu monitoring
+2023-12-13 23:33:02,532 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started disk monitoring
+2023-12-13 23:33:02,533 DEBUG   SenderThread:54111 [sender.py:send():382] send: telemetry
+2023-12-13 23:33:02,534 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started memory monitoring
+2023-12-13 23:33:02,534 DEBUG   SenderThread:54111 [sender.py:send():382] send: exit
+2023-12-13 23:33:02,535 INFO    SystemMonitor:54111 [interfaces.py:start():190] Started network monitoring
+2023-12-13 23:33:02,535 INFO    SenderThread:54111 [sender.py:send_exit():589] handling exit code: 0
+2023-12-13 23:33:02,536 INFO    SenderThread:54111 [sender.py:send_exit():591] handling runtime: 1798
+2023-12-13 23:33:02,537 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:33:02,537 INFO    SenderThread:54111 [sender.py:send_exit():597] send defer
+2023-12-13 23:33:02,538 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:02,538 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 0
+2023-12-13 23:33:02,538 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:02,538 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 0
+2023-12-13 23:33:02,538 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 1
+2023-12-13 23:33:02,538 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:02,539 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 1
+2023-12-13 23:33:02,539 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:02,539 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 1
+2023-12-13 23:33:02,539 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 2
+2023-12-13 23:33:02,539 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:02,539 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 2
+2023-12-13 23:33:02,539 INFO    HandlerThread:54111 [system_monitor.py:finish():203] Stopping system monitor
+2023-12-13 23:33:02,540 DEBUG   SystemMonitor:54111 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2023-12-13 23:33:02,540 DEBUG   SystemMonitor:54111 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2023-12-13 23:33:02,540 DEBUG   SystemMonitor:54111 [system_monitor.py:_start():183] Publishing last batch of metrics
+2023-12-13 23:33:02,540 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined cpu monitor
+2023-12-13 23:33:02,541 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined disk monitor
+2023-12-13 23:33:02,541 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined memory monitor
+2023-12-13 23:33:02,541 INFO    HandlerThread:54111 [interfaces.py:finish():202] Joined network monitor
+2023-12-13 23:33:02,541 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:02,541 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 2
+2023-12-13 23:33:02,541 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 3
+2023-12-13 23:33:02,542 DEBUG   SenderThread:54111 [sender.py:send():382] send: stats
+2023-12-13 23:33:02,542 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:02,542 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 3
+2023-12-13 23:33:02,542 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:02,542 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 3
+2023-12-13 23:33:02,542 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 4
+2023-12-13 23:33:02,543 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:02,543 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 4
+2023-12-13 23:33:02,543 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:02,543 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 4
+2023-12-13 23:33:02,543 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 5
+2023-12-13 23:33:02,543 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:02,543 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 5
+2023-12-13 23:33:02,544 DEBUG   SenderThread:54111 [sender.py:send():382] send: summary
+2023-12-13 23:33:02,545 INFO    SenderThread:54111 [sender.py:_save_file():1392] saving file wandb-summary.json with policy end
+2023-12-13 23:33:02,545 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:02,545 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 5
+2023-12-13 23:33:02,545 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 6
+2023-12-13 23:33:02,545 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:02,545 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 6
+2023-12-13 23:33:02,545 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:02,546 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 6
+2023-12-13 23:33:02,549 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:33:02,782 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 7
+2023-12-13 23:33:02,782 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:02,782 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 7
+2023-12-13 23:33:02,782 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:02,782 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 7
+2023-12-13 23:33:02,992 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:33:02,992 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/config.yaml
+2023-12-13 23:33:03,538 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-13 23:33:03,572 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 8
+2023-12-13 23:33:03,572 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: poll_exit
+2023-12-13 23:33:03,573 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:03,574 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 8
+2023-12-13 23:33:03,574 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:03,574 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 8
+2023-12-13 23:33:03,574 INFO    SenderThread:54111 [job_builder.py:build():298] Attempting to build job artifact
+2023-12-13 23:33:03,577 INFO    SenderThread:54111 [job_builder.py:_get_source_type():428] is repo sourced job
+2023-12-13 23:33:03,578 INFO    SenderThread:54111 [job_builder.py:_get_program_relpath():446] run is notebook based run
+2023-12-13 23:33:03,580 INFO    SenderThread:54111 [job_builder.py:build():404] adding wandb-job metadata file
+2023-12-13 23:33:03,589 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 9
+2023-12-13 23:33:03,590 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:03,590 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 9
+2023-12-13 23:33:03,590 DEBUG   SenderThread:54111 [sender.py:send():382] send: artifact
+2023-12-13 23:33:03,993 INFO    Thread-12 :54111 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/output.log
+2023-12-13 23:33:04,539 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-13 23:33:04,790 INFO    wandb-upload_1:54111 [upload_job.py:push():89] Uploaded file /Users/r337555/Library/Application Support/wandb/artifacts/staging/tmpop56lph3
+2023-12-13 23:33:04,802 INFO    wandb-upload_0:54111 [upload_job.py:push():89] Uploaded file /Users/r337555/Library/Application Support/wandb/artifacts/staging/tmppd4rsgy6
+2023-12-13 23:33:06,183 INFO    SenderThread:54111 [sender.py:send_artifact():1470] sent artifact job-https___github.com_sagazluiz_DeepLearning-AI.git_Projects-P..tive-ai_finetuning-a-language-models_05_train_llm_starter.ipynb - {'id': 'QXJ0aWZhY3Q6NjY2NTcxNDEw', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjEyMzQ0NTIxOQ==', 'latestArtifact': None}}
+2023-12-13 23:33:06,183 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:06,183 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 9
+2023-12-13 23:33:06,183 INFO    SenderThread:54111 [dir_watcher.py:finish():358] shutting down directory watcher
+2023-12-13 23:33:06,995 INFO    SenderThread:54111 [dir_watcher.py:finish():388] scan: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files
+2023-12-13 23:33:06,995 INFO    SenderThread:54111 [dir_watcher.py:finish():402] scan save: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/requirements.txt requirements.txt
+2023-12-13 23:33:06,995 INFO    SenderThread:54111 [dir_watcher.py:finish():402] scan save: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/output.log output.log
+2023-12-13 23:33:06,997 INFO    SenderThread:54111 [dir_watcher.py:finish():402] scan save: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/config.yaml config.yaml
+2023-12-13 23:33:06,999 INFO    SenderThread:54111 [dir_watcher.py:finish():402] scan save: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json wandb-summary.json
+2023-12-13 23:33:07,000 INFO    SenderThread:54111 [dir_watcher.py:finish():402] scan save: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/conda-environment.yaml conda-environment.yaml
+2023-12-13 23:33:07,001 INFO    SenderThread:54111 [dir_watcher.py:finish():402] scan save: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-metadata.json wandb-metadata.json
+2023-12-13 23:33:07,007 INFO    SenderThread:54111 [dir_watcher.py:finish():402] scan save: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/media/table/tiny_generations_235_6636239e473b27964d5f.table.json media/table/tiny_generations_235_6636239e473b27964d5f.table.json
+2023-12-13 23:33:07,007 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 10
+2023-12-13 23:33:07,007 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: poll_exit
+2023-12-13 23:33:07,007 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:07,007 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 10
+2023-12-13 23:33:07,008 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:07,008 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 10
+2023-12-13 23:33:07,008 INFO    SenderThread:54111 [file_pusher.py:finish():175] shutting down file pusher
+2023-12-13 23:33:07,420 INFO    wandb-upload_0:54111 [upload_job.py:push():131] Uploaded file /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/output.log
+2023-12-13 23:33:07,533 INFO    wandb-upload_1:54111 [upload_job.py:push():131] Uploaded file /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/requirements.txt
+2023-12-13 23:33:07,537 INFO    wandb-upload_3:54111 [upload_job.py:push():131] Uploaded file /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/wandb-summary.json
+2023-12-13 23:33:07,541 INFO    wandb-upload_2:54111 [upload_job.py:push():131] Uploaded file /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/config.yaml
+2023-12-13 23:33:07,549 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-13 23:33:07,549 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: poll_exit
+2023-12-13 23:33:07,549 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: status_report
+2023-12-13 23:33:07,552 INFO    wandb-upload_4:54111 [upload_job.py:push():131] Uploaded file /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/files/conda-environment.yaml
+2023-12-13 23:33:07,753 INFO    Thread-11 (_thread_body):54111 [sender.py:transition_state():617] send defer: 11
+2023-12-13 23:33:07,753 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:07,754 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 11
+2023-12-13 23:33:07,754 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:07,754 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 11
+2023-12-13 23:33:07,754 INFO    SenderThread:54111 [file_pusher.py:join():181] waiting for file pusher
+2023-12-13 23:33:07,754 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 12
+2023-12-13 23:33:07,754 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:07,755 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 12
+2023-12-13 23:33:07,755 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:07,755 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 12
+2023-12-13 23:33:07,755 INFO    SenderThread:54111 [file_stream.py:finish():595] file stream finish called
+2023-12-13 23:33:07,946 INFO    SenderThread:54111 [file_stream.py:finish():599] file stream finish is done
+2023-12-13 23:33:07,946 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 13
+2023-12-13 23:33:07,946 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:07,946 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 13
+2023-12-13 23:33:07,946 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:07,946 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 13
+2023-12-13 23:33:07,947 INFO    SenderThread:54111 [sender.py:transition_state():617] send defer: 14
+2023-12-13 23:33:07,947 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: defer
+2023-12-13 23:33:07,947 INFO    HandlerThread:54111 [handler.py:handle_request_defer():172] handle defer: 14
+2023-12-13 23:33:07,947 DEBUG   SenderThread:54111 [sender.py:send():382] send: final
+2023-12-13 23:33:07,947 DEBUG   SenderThread:54111 [sender.py:send():382] send: footer
+2023-12-13 23:33:07,948 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: defer
+2023-12-13 23:33:07,948 INFO    SenderThread:54111 [sender.py:send_request_defer():613] handle sender defer: 14
+2023-12-13 23:33:07,948 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-13 23:33:07,949 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: poll_exit
+2023-12-13 23:33:07,950 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-13 23:33:07,951 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: server_info
+2023-12-13 23:33:07,951 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: get_summary
+2023-12-13 23:33:07,952 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: sampled_history
+2023-12-13 23:33:07,952 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: server_info
+2023-12-13 23:33:07,953 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: job_info
+2023-12-13 23:33:08,107 DEBUG   SenderThread:54111 [sender.py:send_request():409] send_request: job_info
+2023-12-13 23:33:08,108 DEBUG   HandlerThread:54111 [handler.py:handle_request():146] handle_request: shutdown
+2023-12-13 23:33:08,108 INFO    HandlerThread:54111 [handler.py:finish():866] shutting down handler
+2023-12-13 23:33:08,956 INFO    WriterThread:54111 [datastore.py:close():294] close: /Users/r337555/Projects-Personal/DeepLearning-AI/evaluating-and-debugging-generative-ai/finetuning-a-language-models/wandb/run-20231213_230210-3sfjxpr8/run-3sfjxpr8.wandb
+2023-12-13 23:33:09,108 INFO    SenderThread:54111 [sender.py:finish():1548] shutting down sender
+2023-12-13 23:33:09,108 INFO    SenderThread:54111 [file_pusher.py:finish():175] shutting down file pusher
+2023-12-13 23:33:09,109 INFO    SenderThread:54111 [file_pusher.py:join():181] waiting for file pusher
